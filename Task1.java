@@ -9,7 +9,7 @@ public class Task1 {
         System.out.println("7) " + factorial(5));
         System.out.println("8) " + gcd(52, 8));
         System.out.println("9) " + ticketSaler(24, 950));
-        System.out.println("10) " + tables(43, 20));
+        System.out.println("10) " + tables(31, 20));
     }
     public static double convert(int gal) {
         return gal * 3.7854143254273;
